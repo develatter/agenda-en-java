@@ -43,7 +43,7 @@ public class MenuCLI {
 
 
     /**
-     *
+     * Limpia la salida de consola
      */
     public static void clearConsole() {
         System.out.println("\n\n\n\n\n\n\n\n\n");
